@@ -6,3 +6,7 @@
 помещены в файлы BSD500train.yuv и BSD500test.yuv, соответственно.
 
 ## Результаты полученные после обучения на 10 эпохах на 100 изображениях
+![train_10_epoch_new](https://github.com/user-attachments/assets/a68d4260-bc2e-4d2b-9209-fac596f1ffcc)
+
+
+![test_10_epoch_new](https://github.com/user-attachments/assets/113d180f-f95a-439a-9265-4ccf123067d3)
